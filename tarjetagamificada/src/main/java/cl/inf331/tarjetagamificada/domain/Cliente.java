@@ -35,5 +35,6 @@ public class Cliente {
     
     public void sumarPuntos(int puntos) {
         this.puntos += puntos;
+        this.nivel = Nivel.fromPuntos(this.puntos);
     }
 }
