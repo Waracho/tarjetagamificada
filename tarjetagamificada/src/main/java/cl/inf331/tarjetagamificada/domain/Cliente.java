@@ -32,4 +32,8 @@ public class Cliente {
         }
         this.correo = correo;
     }
+    
+    public void sumarPuntos(int puntos) {
+        this.puntos += puntos;
+    }
 }
