@@ -187,7 +187,9 @@ mvn clean compile
 
 ### Ejecutar la aplicación
 ```
-mvn exec:java
+en tarjetagamificada/tarjetagamificada/src/main/java usar
+javac Main.java
+Finalmente java Main
 ```
 
 ## 📂 Estructura del Repositorio
