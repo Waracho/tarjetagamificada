@@ -296,5 +296,6 @@ Durante el desarrollo de este proyecto se utilizó **ChatGPT (OpenAI)** como her
 - Apoyo en la **redacción y estructuración del archivo README**.
 - Orientación en la **organización de evidencias** (imágenes de cobertura y pruebas).
 - Asistencia en la **implementación de la interfaz por consola (UI)** para acelerar el desarrollo del menú y flujos de interacción.
+- Creación de pom.xml
 
 El **diseño del sistema**, la **implementación de la lógica de negocio**, la **definición de reglas**, la **escritura de pruebas unitarias**, la **interpretación de resultados** y la **resolución de errores** fueron realizadas y validadas por el autor del proyecto.
